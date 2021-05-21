@@ -32,6 +32,9 @@ Q:  Create an innovative solution or application that integrates the end to end 
 
 ### **Solution**
 
+1. **Search Widget**: On clicking search widget you can type anything the recommendation algorithm will recommend in advanced you want to search or filter it for you.
+2. **Chatbot Widget**: On clicking chatbot widget you can message on bot to get and collaborate using NLP and ML Algorihms.
+3. **TextBox Widget**: USing this the employee can announce, notify, bur report and seek healp it would be diplayed on announcement component.
 
 
 ## Tech Stack used and Use Case
