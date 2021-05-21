@@ -2,7 +2,7 @@
 
 ![aerothon3.0](https://media-fastly.hackerearth.com/media/hackathon/airbus-aerothon-30/images/5c1b4a489e-Aerothon_3_-_HE_BG_1.jpg)
 
-# Welcome to Our Team Project: "Profile Analyzer"
+# Welcome to Our Team Project: "IndAssist"
 
 ## Team Introduction 
 
