@@ -1,6 +1,6 @@
-## Important APIs and Link
+# Important APIs and Link
 
-# The api are hosted on Heroku:
+## The Api are hosted on Heroku:
 
 1. To get the status of the email ID present in the DataBase : https://aerothondatabaseone.herokuapp.com/readempdata/emp001@industry.com // the query parameter will be emailID
 2. To post the employee details to the database by admin: https://aerothondatabaseone.herokuapp.com/postempdata
