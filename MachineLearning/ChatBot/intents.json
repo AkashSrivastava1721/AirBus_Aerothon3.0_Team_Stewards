@@ -1,0 +1,17 @@
+{"intents":[
+    {
+        "tag":"greetings",
+        "patterns":["hello","hey","hi","good day","greetings","what's up?","how is it going"],
+        "responses":["Hello!","Hey!","What can I do for yoy?"]
+    },
+    {
+        "tag":"goodbye",
+        "patterns":["cya","See you later","goodbye","I am leaving","Have a good day","Bye","See ya"],
+        "responses":["Sad to see you go:(","Talk to you later","Good Bye!"]
+    },
+    {
+        "tag":"help",
+        "patterns":["how can I use this app","what can i do with this app","how are you helpful to me"],
+        "responses":["you can book your tickets","You can track details about your flights","You can check availability of flighhts!"]
+    }
+]}
