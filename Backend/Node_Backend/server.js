@@ -93,7 +93,37 @@ app.get("/readtextdata", async (req,res) =>
             {
                 return res.status(500).send(error);
             }
-            res.send(result[result.length-1]);
+            res.send(result);
+        });
+        connection.close();
+    }
+    catch(error)
+    {
+        console.log(error);
+        res.status(500).json({alert:"error"});
+    }
+});
+app.get("/readtextdata/:id", async (req,res) =>
+{
+    try
+    {
+        let connection = await MongodbClient.connect(url);
+        let db = connection.db(Database);
+        let collection = db.collection("textData");
+        collection.find({}).toArray((error, result) => 
+        {
+            if(error) 
+            {
+                return res.status(500).send(error);
+            }
+            let senddata =[];
+            let dept = req.params.id;
+            for(var i=0;i<result.length;i++)
+            {
+                if(result[i].dept === dept)
+                    senddata.push(result[i]);
+            }
+            res.send(senddata);
         });
         connection.close();
     }
