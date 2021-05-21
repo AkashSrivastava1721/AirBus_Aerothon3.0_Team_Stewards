@@ -18,8 +18,17 @@ alt="IndAssist" width="240" height="180" border="10" /></a>
 
 ## Project Explanation (Problem and Solution)
 ### **Problem Statement**
+Q:  Create an innovative solution or application that integrates the end to end user experience and application support into one single place, which is accessible as an onscreen floating widget on top of any application/webpage, with one single click and looks simple + user friendly, that connects the users with the IT product teams. Build a customizable application with admin console that provides extended widget to achieve following understanding:
 
+. Application Navigation (searchable tool tip)
+. Support chatbot / collaboration chatbot
+. Application Improvement & co-creation
+. Bug reporting window
+. Collective Announcements
+. Easily customized to adapt throughout the application.
+. Measure application usage, performance
 
+[Brownie points] : Think outside the box and come with more user interactive features, or even a better idea! (more AI or ML, innovative ideas or components…) Example : Enhanced security, support for differently abled people, Gamification features, AI/ML Capabilities in chatbot & other features etc. 
 
 ### **Solution**
 
