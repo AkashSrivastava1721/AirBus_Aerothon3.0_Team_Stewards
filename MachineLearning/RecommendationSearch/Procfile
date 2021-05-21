@@ -1,0 +1,1 @@
+web: gunicorn main1.py:app --timeout 1000
