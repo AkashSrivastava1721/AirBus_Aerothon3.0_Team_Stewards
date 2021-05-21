@@ -45,14 +45,7 @@ Q:  Create an innovative solution or application that integrates the end to end 
 
 
 ## Project Screenshots
-#### First Page
-
-
-#### Proposed UI
-
-
-#### Charts Implemented
-
+#### App pages
 
 
 ### Tech Stack
@@ -64,8 +57,6 @@ Q:  Create an innovative solution or application that integrates the end to end 
 6. Natural Language Processing.
 7. Machine Learning.
 8. Cloud Services: Heroku for hosting APIs.
-
-## Challenges faced during building this project
 
 
 ## Our Innovation and Implementation
