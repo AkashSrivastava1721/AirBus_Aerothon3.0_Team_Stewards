@@ -58,8 +58,9 @@ Q:  Create an innovative solution or application that integrates the end to end 
 4. JSON Objects.
 5. REST API.
 6. Natural Language Processing.
-7. Machine Learning
-8. Cloud Services: Heroku for hosting
+7. Machine Learning.
+8. Cloud Services: Heroku for hosting APIs.
+9. Netlify for deplying final app.
 
 ## Challenges faced during building this project
 
