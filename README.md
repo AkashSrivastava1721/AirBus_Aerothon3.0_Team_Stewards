@@ -41,7 +41,7 @@ Q:  Create an innovative solution or application that integrates the end to end 
 
 ### Uses Cases
 
-![UML](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/Assets/IndAssist.JPG width="240" height="180" border="10")
+![UML](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/Assets/IndAssist.JPG)
 
 
 ## Project Screenshots
