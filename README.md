@@ -6,7 +6,7 @@
 
 ## Project Youtube Demo Link 
 
-<a href="https://www.youtube.com/watch?v=cLJodwolIns"><img src="#"/></a>
+<a href="https://www.youtube.com/watch?v=cLJodwolIns"><img src="https://media-fastly.hackerearth.com/media/hackathon/airbus-aerothon-30/images/5c1b4a489e-Aerothon_3_-_HE_BG_1.jpg"/></a>
 
 ## Project Explanation (Problem and Solution)
 ### **Problem Statement**
