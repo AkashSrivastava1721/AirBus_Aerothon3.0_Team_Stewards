@@ -6,8 +6,7 @@
 
 ## Project Youtube Demo Link 
 
-<a href="#"><img src="https://media-fastly.hackerearth.com/media/hackathon/airbus-aerothon-30/images/5c1b4a489e-Aerothon_3_-_HE_BG_1.jpg" 
-alt="IndAssist" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=cLJodwolIns"><img src="#"/></a>
 
 ## Project Explanation (Problem and Solution)
 ### **Problem Statement**
