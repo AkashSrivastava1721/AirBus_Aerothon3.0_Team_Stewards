@@ -72,14 +72,3 @@ Q:  Create an innovative solution or application that integrates the end to end 
 7. Machine Learning.
 8. Cloud Services: Heroku for hosting APIs.
 
-
-## Our Innovation and Implementation
-
-### Innovation
-
-
-### Implementation
-
-
-## Conclusion Note
-
