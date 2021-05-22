@@ -4,13 +4,6 @@
 
 # Welcome to Our Team Project: "IndAssist"
 
-## Team Introduction 
-
-| Name             | College  | Image |
-| -------------    |----------------|------|
-| [Akash Srivastava](https://www.linkedin.com/in/akash-s-233ab3160/)|Vellore Institute of Tecnology (Electrical and Electronics Engineering)[2017-2021]|![Akash Srivastava](https://media-exp1.licdn.com/dms/image/C5103AQERq-Hiqnqq9Q/profile-displayphoto-shrink_400_400/0?e=1611187200&v=beta&t=tZAaYCPdQ9zND5MawR7A731_TRxMZ2zeKaE5aBULQlc)|
-
-
 ## Project Youtube Demo Link 
 
 <a href="#"><img src="https://media-fastly.hackerearth.com/media/hackathon/airbus-aerothon-30/images/5c1b4a489e-Aerothon_3_-_HE_BG_1.jpg" 
