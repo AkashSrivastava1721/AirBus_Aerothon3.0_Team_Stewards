@@ -38,21 +38,7 @@ Q:  Create an innovative solution or application that integrates the end to end 
 
 ## Project Screenshots
 #### App pages
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S1.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S2.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S3.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S4.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S5.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S6.JPG)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S7.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S8.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S9.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S10.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S11.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S12.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S13.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S14.jpeg)
-![aerothon3.0](https://github.com/AkashSrivastava1721/AirBus_Aerothon3.0_Team_Stewards/blob/main/S15.jpeg)
+
 
 ### Tech Stack
 1. **FrontEnd**: React Framework.
