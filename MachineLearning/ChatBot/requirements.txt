@@ -7,7 +7,7 @@ Jinja2==2.11.3
 joblib==1.0.1
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
-nltk==3.6.2
+nltk==3.6.5
 numpy==1.19.5
 numpyencoder==0.3.0
 pandas==1.2.4
